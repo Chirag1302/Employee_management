@@ -27,7 +27,7 @@ POST `/api/employees`
 GET `/api/employees`
 
 ### Update Employee
-![PUT API](put .png)
+![PUT API](put.png)
 PUT `/api/employees/{id}`
 
 ### Delete Employee
