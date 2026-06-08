@@ -19,19 +19,23 @@ The application allows users to manage employee information such as employee ID,
 ## API Endpoints
 
 ### Create Employee
+![POST API](post.png)
 POST `/api/employees`
 
 ### Get All Employees
+![GET API](get.png)
 GET `/api/employees`
 
-### Get Employee By Id
-GET `/api/employees/{id}`
-
 ### Update Employee
+![PUT API](put .png)
 PUT `/api/employees/{id}`
 
 ### Delete Employee
+![Delete API](delete.png)
 DELETE `/api/employees/{id}`
+
+### Get Employee By Id
+GET `/api/employees/{id}`
 
 ## Sample Employee JSON
 
